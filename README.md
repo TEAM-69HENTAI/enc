@@ -6,4 +6,4 @@ cd enc
 
 python3 Marshal-enc.py
 
-![Screenshot_20240225-103626](https://github.com/TEAM-69HENTAI/enc/assets/161182278/8e6ccfde-6f19-448d-a7cd-4564631a1e20)
+![Screenshot_20240225-103933](https://github.com/TEAM-69HENTAI/enc/assets/161182278/7ed7fd9e-7bff-46a6-828b-1c320e478f13)
